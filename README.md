@@ -6,7 +6,7 @@
 
 > generate interactive surveys from yaml files
 
-Generate code for surveys that you can use with [github.com/AlecAivazis/survey/v2](https://github.com/AlecAivazis/survey/v2).
+Generate code for surveys that you can use with [github.com/AlecAivazis/survey](https://github.com/AlecAivazis/survey/v2).
 
 It will save you some time if you need to maintain large surveys and prefer to keep a simple yaml file instead of code.
 
@@ -68,7 +68,7 @@ Features that I'd like to add:
 ### References
 
   * [spf13/cobra](https://github.com/spf13/cobra)
-  * [AlecAivazis/survey](https://github.com/AlecAivazis/survey/v2)
+  * [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
 
 
 ### LICENSE
